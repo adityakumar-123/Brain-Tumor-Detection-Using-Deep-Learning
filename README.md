@@ -2,7 +2,7 @@
 "Brain Tumor Detection Using Deep Learning" employs AI to analyze MRI/CT scans for tumor detection. Utilizing deep learning algorithms like CNNs, it aims for automated, accurate diagnosis, potentially leading to earlier interventions and improved patient outcomes.
 
 # Database used in the project
-https://www.kaggle.com/datasets/architsharma15/tumor-dataset
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
 # All about the project
 
